@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsDashboard": "UseDevelopmentStorage=true",
+    "WEBSITE_TIME_ZONE": "E. South America Standard Time",
+    "ServiceBusConnection": "",
+    "NotificationsQueueName": "notifications",
+    "TelegramBaseURL": "https://api.telegram.org/bot{0}",
+    "BotKey": "",
+    "ChatID": 0
+  }
+}
