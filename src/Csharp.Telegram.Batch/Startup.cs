@@ -28,7 +28,6 @@ namespace Csharp.Telegram.Batch
                  .Build();
 
             builder.Services.AddSingleton(x => configuration);
-
             builder.Services.RegisterDependencies();
         }
     }

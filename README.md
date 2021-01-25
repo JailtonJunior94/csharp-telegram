@@ -15,4 +15,3 @@ O Projeto Csharp Telegram é uma PoC ([Prova de Conceito](https://pt.wikipedia.o
 <p align="center">
   <img src="https://ik.imagekit.io/usw9dpm4u3i/WhatsApp_Image_2021-01-10_at_18.58.44_gVvdhOkv7_.jpeg" width="200" title="Main">
 </p>
-

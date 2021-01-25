@@ -23,6 +23,6 @@ namespace Csharp.Telegram.Business.Infra.Configuration
         public static string NotificationsQueueName { get { return GetValue<string>("NotificationsQueueName"); } }
         public static string TelegramBaseURL { get { return GetValue<string>("TelegramBaseURL"); } }
         public static string BotKey { get { return GetValue<string>("BotKey"); } }
-        public static long ChatId { get { return GetValue<long>("ChatID"); } }   
+        public static long ChatId { get { return GetValue<long>("ChatID"); } }
     }
 }
